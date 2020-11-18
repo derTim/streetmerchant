@@ -120,6 +120,48 @@ export const Mindfactory: Store = {
 			series: 'ryzen5950',
 			url:
 				'https://www.mindfactory.de/product_info.php/AMD-Ryzen-9-5950X-16x-3-40GHz-So-AM4-WOF_1380729.html'
+		},
+		{
+			brand: 'powercolor',
+			model: 'amd reference',
+			series: 'rx6800xt',
+			url:
+				'https://www.mindfactory.de/product_info.php/16GB-PowerColor-Radeon-RX-6800-XT-GDDR6-HDMI-DUAL-DP-USB-C--Retail-_1383761.html'
+		},
+		{
+			brand: 'powercolor',
+			model: 'amd reference',
+			series: 'rx6800',
+			url:
+				'https://www.mindfactory.de/product_info.php/16GB-PowerColor-Radeon-RX-6800-GDDR6-HDMI-DUAL-DP-USB-C--Retail-_1383762.html'
+		},
+		{
+			brand: 'asrock',
+			model: 'amd reference',
+			series: 'rx6800xt',
+			url:
+				'https://www.mindfactory.de/product_info.php/16GB-ASRock-Radeon-RX-6800-XT-GDDR6-HDMI-DUAL-DP-USB-C--Retail-_1384832.html'
+		},
+		{
+			brand: 'xfx',
+			model: 'amd reference',
+			series: 'rx6800',
+			url:
+				'https://www.mindfactory.de/product_info.php/16GB-XFX-Radeon-RX-6800-XT-GDDR6-HDMI-DUAL-DP-USB-C--Retail-_1384561.html'
+		},
+		{
+			brand: 'sapphire',
+			model: 'amd reference',
+			series: 'rx6800xt',
+			url:
+				'https://www.mindfactory.de/product_info.php/16GB-Sapphire-Radeon-RX-6800-XT-GDDR6-HDMI-DUAL-DP-USB-C--Retail-_1383028.html'
+		},
+		{
+			brand: 'sapphire',
+			model: 'amd reference',
+			series: 'rx6800',
+			url:
+				'https://www.mindfactory.de/product_info.php/16GB-Sapphire-Radeon-RX-6800-GDDR6-HDMI-DUAL-DP-USB-C--Retail-_1383029.html'
 		}
 	],
 	name: 'mindfactory'

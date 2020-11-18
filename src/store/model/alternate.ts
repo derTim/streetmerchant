@@ -356,6 +356,48 @@ export const Alternate: Store = {
 			model: 'ps5 digital',
 			series: 'sonyps5de',
 			url: 'https://www.alternate.de/product/1651221'
+		},
+		{
+			brand: 'msi',
+			model: 'amd reference',
+			series: 'rx6800xt',
+			url:
+				'https://www.alternate.de/product/1693000'
+		},
+		{
+			brand: 'msi',
+			model: 'amd reference',
+			series: 'rx6800',
+			url:
+				'https://www.alternate.de/product/1693003'
+		},
+		{
+			brand: 'asus',
+			model: 'amd reference',
+			series: 'rx6800xt',
+			url:
+				'https://www.alternate.de/product/1693351'
+		},
+		{
+			brand: 'xfx',
+			model: 'amd reference',
+			series: 'rx6800xt',
+			url:
+				'https://www.alternate.de/product/1694280'
+		},
+		{
+			brand: 'sapphire',
+			model: 'amd reference',
+			series: 'rx6800xt',
+			url:
+				'https://www.alternate.de/product/1693517'
+		},
+		{
+			brand: 'sapphire',
+			model: 'amd reference',
+			series: 'rx6800',
+			url:
+				'https://www.alternate.de/product/1693527'
 		}
 	],
 	name: 'alternate'
